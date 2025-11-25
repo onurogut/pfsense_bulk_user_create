@@ -3,6 +3,10 @@
 /*
  * Delete VPN Users, Certificates and CSOs
  * Range: 10.8.0.3 - 10.8.0.31
+ * 
+ * Author: Onur Öğüt
+ * Website: https://www.onurogut.com
+ * LinkedIn: https://www.linkedin.com/in/onurogut/
  */
 
 require_once("config.inc");

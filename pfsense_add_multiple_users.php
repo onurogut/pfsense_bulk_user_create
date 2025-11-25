@@ -4,6 +4,10 @@
  * pfSense Bulk User Creation - Working Version
  * Creates users with proper EKU extensions
  * Does NOT modify CSO - that's done separately
+ * 
+ * Author: Onur Öğüt
+ * Website: https://www.onurogut.com
+ * LinkedIn: https://www.linkedin.com/in/onurogut/
  */
 
 require_once("config.inc");

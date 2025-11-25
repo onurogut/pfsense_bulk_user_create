@@ -3,6 +3,10 @@
 /*
  * OVPN Export for Existing Users
  * Creates .ovpn files for already created users
+ * 
+ * Author: Onur Öğüt
+ * Website: https://www.onurogut.com
+ * LinkedIn: https://www.linkedin.com/in/onurogut/
  */
 
 require_once("config.inc");

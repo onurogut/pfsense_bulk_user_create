@@ -4,6 +4,10 @@
  * Fix CSO Server List
  * Adds server_list to Client Specific Overrides
  * CSOs don't work without this!
+ * 
+ * Author: Onur Öğüt
+ * Website: https://www.onurogut.com
+ * LinkedIn: https://www.linkedin.com/in/onurogut/
  */
 
 require_once("config.inc");
